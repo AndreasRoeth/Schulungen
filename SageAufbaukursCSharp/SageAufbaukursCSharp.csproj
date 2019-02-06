@@ -60,6 +60,7 @@
     <Compile Include="ServiceImplementations\PartnerUtilDummy.cs" />
     <Compile Include="Services\IPartnerUtil.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
+    <Compile Include="ViewModels\SinnloseKlasse.cs" />
     <Compile Include="ViewModels\ViewModelBase.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
